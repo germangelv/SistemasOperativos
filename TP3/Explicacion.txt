@@ -1,0 +1,19 @@
+Ejercicio1
+- Correr script.sh para obtener Estadisticas.txt
+- Correr script_interactivo.sh para visualizar los casos dinamicamente
+- Ejercicio 1.doc incluye la explicacion de los resultados
+
+Ejercicio2
+- Caso1
+- - Correr script.sh y obtendra visual con los resultados
+- Caso2
+- - Correr script.sh y obtendra visual con los resultados
+- Caso3
+- - Correr script.sh y obtendra visual con los resultados
+- Caso4,5,6
+- - Correr script.sh y obtendra visual con los resultados
+- Ejercicio 2.doc incluye la explicacion de los resultados
+
+Ejercicio3
+- Carpeta write, codigo fuente para escribir archivos de 150mb
+- Ejercicio 3.doc incluye explicacion del procedimiento y los resultados

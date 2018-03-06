@@ -1,0 +1,1 @@
+﻿13/10/2016	6	Reprobado	Dario	Cuando los archivos no tienen extensión, arroja 0 como tamaño de los mismos, no los tengan en cuenta o considerenlos como archivos sin extensión y en ese caso muestren el tamaño de la suma de los dichos archivos.

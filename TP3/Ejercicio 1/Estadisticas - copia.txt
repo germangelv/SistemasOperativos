@@ -1,0 +1,191 @@
+Pesado Lectura 250000
+El parametro enviado es: 250000.
+Tiempo Reloj: 1.228370157 segundos
+Tiempo Reloj promedio: 0.000000 segundos
+Tiempo CPU sistema total: 0.092000 segundos
+Tiempo CPU usuario total: 0.016000 segundos
+Tiempo CPU sistema promedio: 0.000000 segundos
+Tiempo CPU usuario promedio: 0.000000 segundos
+Cantidad de Soft Page Faults: 30004
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1953
+Cantidad de contexto involuntario realizado: 13
+
+
+
+Pesado Lectura 500000
+El parametro enviado es: 500000.
+Tiempo Reloj: 3.34721039 segundos
+Tiempo Reloj promedio: 0.000000 segundos
+Tiempo CPU sistema total: 0.140000 segundos
+Tiempo CPU usuario total: 0.008000 segundos
+Tiempo CPU sistema promedio: 0.000000 segundos
+Tiempo CPU usuario promedio: 0.000000 segundos
+Cantidad de Soft Page Faults: 30004
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1996
+Cantidad de contexto involuntario realizado: 9
+
+
+
+Pesado Lectura 750000
+El parametro enviado es: 750000.
+Tiempo Reloj: 3.770476606 segundos
+Tiempo Reloj promedio: 0.001720 segundos
+Tiempo CPU sistema total: 0.144000 segundos
+Tiempo CPU usuario total: 1.708000 segundos
+Tiempo CPU sistema promedio: 0.000012 segundos
+Tiempo CPU usuario promedio: 0.001708 segundos
+Cantidad de Soft Page Faults: 33003
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1991
+Cantidad de contexto involuntario realizado: 21
+
+
+
+Pesado Escritura 250000
+El parametro enviado es: 250000.
+Tiempo Reloj: 6.2700333 segundos
+Tiempo Reloj promedio: 0.003628 segundos
+Tiempo CPU sistema total: 0.128000 segundos
+Tiempo CPU usuario total: 3.644000 segundos
+Tiempo CPU sistema promedio: 0.000004 segundos
+Tiempo CPU usuario promedio: 0.003624 segundos
+Cantidad de Soft Page Faults: 30003
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1997
+Cantidad de contexto involuntario realizado: 26
+
+
+
+Pesado Escritura 500000
+El parametro enviado es: 500000.
+Tiempo Reloj: 11.251206366 segundos
+Tiempo Reloj promedio: 0.009168 segundos
+Tiempo CPU sistema total: 0.140000 segundos
+Tiempo CPU usuario total: 9.168000 segundos
+Tiempo CPU sistema promedio: 0.000004 segundos
+Tiempo CPU usuario promedio: 0.009164 segundos
+Cantidad de Soft Page Faults: 30004
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1998
+Cantidad de contexto involuntario realizado: 43
+
+
+
+Pesado Escritura 750000
+El parametro enviado es: 750000.
+Tiempo Reloj: 17.611951866 segundos
+Tiempo Reloj promedio: 0.015652 segundos
+Tiempo CPU sistema total: 0.140000 segundos
+Tiempo CPU usuario total: 15.660000 segundos
+Tiempo CPU sistema promedio: 0.000004 segundos
+Tiempo CPU usuario promedio: 0.015648 segundos
+Cantidad de Soft Page Faults: 30003
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1998
+Cantidad de contexto involuntario realizado: 82
+
+
+
+Liviano Lectura 250000
+El parametro enviado es: 250000.
+Tiempo Reloj: 1.50935421 segundos
+Tiempo Reloj promedio: 0.001050 segundos
+Tiempo CPU sistema total: 0.052000 segundos
+Tiempo CPU usuario total: 1.004000 segundos
+Tiempo CPU sistema promedio: 0.000048 segundos
+Tiempo CPU usuario promedio: 0.000908 segundos
+Cantidad de Soft Page Faults: 602
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1000
+Cantidad de contexto involuntario realizado: 8
+
+
+
+Liviano Lectura 500000
+El parametro enviado es: 500000.
+Tiempo Reloj: 2.184193323 segundos
+Tiempo Reloj promedio: 0.002184 segundos
+Tiempo CPU sistema total: 0.032000 segundos
+Tiempo CPU usuario total: 2.152000 segundos
+Tiempo CPU sistema promedio: 0.000028 segundos
+Tiempo CPU usuario promedio: 0.002060 segundos
+Cantidad de Soft Page Faults: 579
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1000
+Cantidad de contexto involuntario realizado: 9
+
+
+
+Liviano Lectura 750000
+El parametro enviado es: 750000.
+Tiempo Reloj: 3.721971640 segundos
+Tiempo Reloj promedio: 0.003721 segundos
+Tiempo CPU sistema total: 0.068000 segundos
+Tiempo CPU usuario total: 3.660000 segundos
+Tiempo CPU sistema promedio: 0.000064 segundos
+Tiempo CPU usuario promedio: 0.003564 segundos
+Cantidad de Soft Page Faults: 559
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1000
+Cantidad de contexto involuntario realizado: 11
+
+
+
+Liviano Escritura 250000
+El parametro enviado es: 250000.
+Tiempo Reloj: 8.713917631 segundos
+Tiempo Reloj promedio: 0.008713 segundos
+Tiempo CPU sistema total: 0.048000 segundos
+Tiempo CPU usuario total: 8.660000 segundos
+Tiempo CPU sistema promedio: 0.000044 segundos
+Tiempo CPU usuario promedio: 0.008592 segundos
+Cantidad de Soft Page Faults: 602
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1000
+Cantidad de contexto involuntario realizado: 57
+
+
+
+Liviano Escritura 500000
+El parametro enviado es: 500000.
+Tiempo Reloj: 20.754581736 segundos
+Tiempo Reloj promedio: 0.020754 segundos
+Tiempo CPU sistema total: 0.068000 segundos
+Tiempo CPU usuario total: 20.696000 segundos
+Tiempo CPU sistema promedio: 0.000068 segundos
+Tiempo CPU usuario promedio: 0.020588 segundos
+Cantidad de Soft Page Faults: 577
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1000
+Cantidad de contexto involuntario realizado: 99
+
+
+
+Liviano Escritura 750000
+El parametro enviado es: 750000.
+Tiempo Reloj: 29.150553724 segundos
+Tiempo Reloj promedio: 0.029150 segundos
+Tiempo CPU sistema total: 0.076000 segundos
+Tiempo CPU usuario total: 29.080000 segundos
+Tiempo CPU sistema promedio: 0.000072 segundos
+Tiempo CPU usuario promedio: 0.028952 segundos
+Cantidad de Soft Page Faults: 553
+Cantidad de Hard page faults: 0
+Cantidad de senales recibidas: 0
+Cantidad de contexto voluntario realizado: 1000
+Cantidad de contexto involuntario realizado: 213
+
+

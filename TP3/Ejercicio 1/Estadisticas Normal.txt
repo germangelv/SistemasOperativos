@@ -1,0 +1,215 @@
+Pesado Lectura 25000
+[H[J[1;33m
+
+	El parametro enviado es: 25000.
+[1;34m	Tiempo Reloj: 0.182975151 segundos
+[1;34m	Tiempo Reloj promedio: 0.000000 segundos
+[1;34m	Tiempo CPU sistema total: 0.044000 segundos
+[1;34m	Tiempo CPU usuario total: 0.000000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000000 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000000 segundos
+[1;32m	Cantidad de Soft Page Faults: 30003
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1983
+[1;31m	Cantidad de contexto involuntario realizado: 4
+
+
+
+Pesado Lectura 50000
+[H[J[1;33m
+
+	El parametro enviado es: 50000.
+[1;34m	Tiempo Reloj: 0.362737995 segundos
+[1;34m	Tiempo Reloj promedio: 0.000000 segundos
+[1;34m	Tiempo CPU sistema total: 0.068000 segundos
+[1;34m	Tiempo CPU usuario total: 0.012000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000000 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000000 segundos
+[1;32m	Cantidad de Soft Page Faults: 29003
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1996
+[1;31m	Cantidad de contexto involuntario realizado: 11
+
+
+
+Pesado Lectura 75000
+[H[J[1;33m
+
+	El parametro enviado es: 75000.
+[1;34m	Tiempo Reloj: 0.576004353 segundos
+[1;34m	Tiempo Reloj promedio: 0.000000 segundos
+[1;34m	Tiempo CPU sistema total: 0.088000 segundos
+[1;34m	Tiempo CPU usuario total: 0.004000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000000 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000000 segundos
+[1;32m	Cantidad de Soft Page Faults: 30003
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1967
+[1;31m	Cantidad de contexto involuntario realizado: 4
+
+
+
+Pesado Escritura 25000
+[H[J[1;33m
+
+	El parametro enviado es: 25000.
+[1;34m	Tiempo Reloj: 0.835812655 segundos
+[1;34m	Tiempo Reloj promedio: 0.000000 segundos
+[1;34m	Tiempo CPU sistema total: 0.108000 segundos
+[1;34m	Tiempo CPU usuario total: 0.008000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000000 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000000 segundos
+[1;32m	Cantidad de Soft Page Faults: 30003
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1981
+[1;31m	Cantidad de contexto involuntario realizado: 12
+
+
+
+Pesado Escritura 50000
+[H[J[1;33m
+
+	El parametro enviado es: 50000.
+[1;34m	Tiempo Reloj: 1.229754076 segundos
+[1;34m	Tiempo Reloj promedio: 0.000000 segundos
+[1;34m	Tiempo CPU sistema total: 0.108000 segundos
+[1;34m	Tiempo CPU usuario total: 0.000000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000000 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000000 segundos
+[1;32m	Cantidad de Soft Page Faults: 32004
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1981
+[1;31m	Cantidad de contexto involuntario realizado: 14
+
+
+
+Pesado Escritura 75000
+[H[J[1;33m
+
+	El parametro enviado es: 75000.
+[1;34m	Tiempo Reloj: 2.69974901 segundos
+[1;34m	Tiempo Reloj promedio: 0.000000 segundos
+[1;34m	Tiempo CPU sistema total: 0.116000 segundos
+[1;34m	Tiempo CPU usuario total: 0.016000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000000 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000000 segundos
+[1;32m	Cantidad de Soft Page Faults: 30004
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1997
+[1;31m	Cantidad de contexto involuntario realizado: 11
+
+
+
+Liviano Lectura 25000
+[H[J[1;33m
+
+	El parametro enviado es: 25000.
+[1;34m	Tiempo Reloj: 0.144066866 segundos
+[1;34m	Tiempo Reloj promedio: 0.000144 segundos
+[1;34m	Tiempo CPU sistema total: 0.016000 segundos
+[1;34m	Tiempo CPU usuario total: 0.120000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000012 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000112 segundos
+[1;32m	Cantidad de Soft Page Faults: 161
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1000
+[1;31m	Cantidad de contexto involuntario realizado: 12
+
+
+
+Liviano Lectura 50000
+[H[J[1;33m
+
+	El parametro enviado es: 50000.
+[1;34m	Tiempo Reloj: 0.148226746 segundos
+[1;34m	Tiempo Reloj promedio: 0.000148 segundos
+[1;34m	Tiempo CPU sistema total: 0.008000 segundos
+[1;34m	Tiempo CPU usuario total: 0.136000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000008 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000124 segundos
+[1;32m	Cantidad de Soft Page Faults: 209
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1000
+[1;31m	Cantidad de contexto involuntario realizado: 6
+
+
+
+Liviano Lectura 75000
+[H[J[1;33m
+
+	El parametro enviado es: 75000.
+[1;34m	Tiempo Reloj: 0.213438773 segundos
+[1;34m	Tiempo Reloj promedio: 0.000213 segundos
+[1;34m	Tiempo CPU sistema total: 0.012000 segundos
+[1;34m	Tiempo CPU usuario total: 0.196000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000004 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000176 segundos
+[1;32m	Cantidad de Soft Page Faults: 260
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1000
+[1;31m	Cantidad de contexto involuntario realizado: 3
+
+
+
+Liviano Escritura 25000
+[H[J[1;33m
+
+	El parametro enviado es: 25000.
+[1;34m	Tiempo Reloj: 0.616544695 segundos
+[1;34m	Tiempo Reloj promedio: 0.000616 segundos
+[1;34m	Tiempo CPU sistema total: 0.024000 segundos
+[1;34m	Tiempo CPU usuario total: 0.588000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000020 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.000524 segundos
+[1;32m	Cantidad de Soft Page Faults: 165
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1000
+[1;31m	Cantidad de contexto involuntario realizado: 6
+
+
+
+Liviano Escritura 50000
+[H[J[1;33m
+
+	El parametro enviado es: 50000.
+[1;34m	Tiempo Reloj: 1.620697438 segundos
+[1;34m	Tiempo Reloj promedio: 0.001620 segundos
+[1;34m	Tiempo CPU sistema total: 0.024000 segundos
+[1;34m	Tiempo CPU usuario total: 1.588000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000024 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.001492 segundos
+[1;32m	Cantidad de Soft Page Faults: 213
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1000
+[1;31m	Cantidad de contexto involuntario realizado: 15
+
+
+
+Liviano Escritura 75000
+[H[J[1;33m
+
+	El parametro enviado es: 75000.
+[1;34m	Tiempo Reloj: 2.778999959 segundos
+[1;34m	Tiempo Reloj promedio: 0.002778 segundos
+[1;34m	Tiempo CPU sistema total: 0.068000 segundos
+[1;34m	Tiempo CPU usuario total: 2.700000 segundos
+[1;32m	Tiempo CPU sistema promedio: 0.000056 segundos
+[1;32m	Tiempo CPU usuario promedio: 0.002620 segundos
+[1;32m	Cantidad de Soft Page Faults: 260
+[1;36m	Cantidad de Hard page faults: 0
+[1;36m	Cantidad de senales recibidas: 0
+[1;31m	Cantidad de contexto voluntario realizado: 1000
+[1;31m	Cantidad de contexto involuntario realizado: 14
+
+
